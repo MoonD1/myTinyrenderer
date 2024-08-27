@@ -1,6 +1,6 @@
 # myTinyrenderer
 ***
-本项目基于c++语言，自myTinyrenderer-1.0 ~ myTinyrenderer-3.0循序渐进，用于个人学习渲染管线并模拟openGL实现软光栅渲染器（简化版本）。其中，每一个类的构造函数代表一个里程碑，均可单独调用。其中对于分支版本的划分仅依据对代码是否进行重构。output.tga为输出效果。
+本项目基于c++语言，自myTinyrenderer-1.0 ~ myTinyrenderer-3.0循序渐进，用于个人学习渲染管线并模拟openGL实现软光栅渲染器（简化版本）。其中，每一个类的构造函数代表一个里程碑，均可单独调用。对于分支版本的划分仅依据对代码是否进行重构。output.tga为输出效果。
 ***
 共有以下三个分支：
 1. tinyrenderer-1.0：
