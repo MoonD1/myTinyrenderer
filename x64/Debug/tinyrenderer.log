@@ -1,0 +1,273 @@
+﻿  main.cpp
+D:\visualStudioProgram\tinyrenderer\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(60,19): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(132,81): warning C4244: “参数”: 从“_Ty”转换到“t”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(132,60): warning C4244: “参数”: 从“_Ty”转换到“t”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(132,39): warning C4244: “参数”: 从“_Ty”转换到“t”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(181,19): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(208,97): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(208,73): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(208,49): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(248,76): warning C4244: “参数”: 从“_Ty”转换到“t”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(248,57): warning C4244: “参数”: 从“_Ty”转换到“t”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(248,38): warning C4244: “参数”: 从“_Ty”转换到“t”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(288,19): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(315,73): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(315,49): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(336,93): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(336,69): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(336,45): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(337,76): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(337,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(337,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(338,76): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(338,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(338,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(375,19): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(420,93): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(420,69): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(420,45): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(421,76): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(421,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(421,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(422,76): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(422,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(422,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(430,84): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(430,67): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(430,50): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(456,19): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(492,69): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(492,45): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(493,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(493,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(494,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(494,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(502,84): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(502,67): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(502,50): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(528,19): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(598,69): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(598,45): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(599,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(599,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(600,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(600,28): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\main.cpp(642,14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(643,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(644,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(648,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(648,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(656,1): warning C4305: “+=”: 从“double”到“float”截断
+D:\visualStudioProgram\tinyrenderer\main.cpp(659,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(659,14): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(675,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(676,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(677,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\main.cpp(678,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer\geometry.h(15,74): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\visualStudioProgram\tinyrenderer\geometry.h(15,13): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+D:\visualStudioProgram\tinyrenderer\main.cpp(81,50): message : 请参阅 "CameraMove::Triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+D:\visualStudioProgram\tinyrenderer\main.cpp(46,8): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\visualStudioProgram\tinyrenderer\geometry.h(15,67): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+  tinyrenderer.vcxproj -> D:\visualStudioProgram\tinyrenderer\x64\Debug\tinyrenderer.exe
