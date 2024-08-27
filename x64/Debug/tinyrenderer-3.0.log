@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\visualStudioProgram\tinyrenderer-3.0\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer-3.0\main.cpp(60,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\visualStudioProgram\tinyrenderer-3.0\main.cpp(73,30): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  tinyrenderer-3.0.vcxproj -> D:\visualStudioProgram\tinyrenderer-3.0\x64\Debug\tinyrenderer-3.0.exe
