@@ -1,0 +1,129 @@
+﻿  geometry.cpp
+D:\visualStudioProgram\tinyrender-refactor\geometry.cpp(4,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\visualStudioProgram\tinyrender-refactor\geometry.cpp(4,76): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\visualStudioProgram\tinyrender-refactor\geometry.cpp(4,83): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\visualStudioProgram\tinyrender-refactor\geometry.cpp(6,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\visualStudioProgram\tinyrender-refactor\geometry.cpp(6,76): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+D:\visualStudioProgram\tinyrender-refactor\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrender-refactor\main.cpp(51,30): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  model.cpp
+D:\visualStudioProgram\tinyrender-refactor\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrender-refactor\model.cpp(85,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\visualStudioProgram\tinyrender-refactor\model.cpp(85,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\visualStudioProgram\tinyrender-refactor\model.cpp(90,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\visualStudioProgram\tinyrender-refactor\model.cpp(90,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\visualStudioProgram\tinyrender-refactor\model.cpp(103,56): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\visualStudioProgram\tinyrender-refactor\model.cpp(103,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  our_gl.cpp
+D:\visualStudioProgram\tinyrender-refactor\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\visualStudioProgram\tinyrender-refactor\our_gl.cpp(64,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\visualStudioProgram\tinyrender-refactor\our_gl.cpp(65,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  tgaimage.cpp
+D:\visualStudioProgram\tinyrender-refactor\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  tinyrender-refactor.vcxproj -> D:\visualStudioProgram\tinyrender-refactor\x64\Debug\tinyrender-refactor.exe
